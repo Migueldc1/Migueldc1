@@ -36,9 +36,14 @@ The **MICROWILD** network aims to address how domestication has changed the plan
 
  <h3 align="justify">Wine Yeast Communities</h3>
 <div align="justify">
- 
-Applying a microbial ecology perspective, we aim to understand the individual role of key microbial species in wine fermentations and their interaction within the community and with the environment:
 
+<img align="left" height=175 src=" https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsyr/22/1/10.1093_femsyr_foac034/3/foac034fig2.jpeg?Expires=1706180637&Signature=MfumKN3KRMR5lcdlMvTko-XnhIn324ulew8MF39ZvZGeOZ34jSmxioi3GkOXBepaY~U5UAhaz2D3vQ3~mgQHFaC-nJubeUh8J7X7TC7Lh9jWAffeYp3ZeTUXQ6Z4pMBYY3EgFL-C7L417sZXzCRWLhAnjA-McDTEeS6zectMtC8EgPNKkypSZgOqhqYqALm2XpmX7LFSxtZz44prko4maeqMpC58Ifb1Ae3MgH-~mzOg9NIuB-xxmrGaDlfkvFit2WR-Hh6TBlHALXr0Sad~fUO44oFHs7mGdoapBeFBLb63ADUSAKXlD0MJFj9387jraayNe~ks2Uh7410rJo3JYw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">
+
+
+ 
+Applying a **microbial ecology** perspective, we aim to understand the individual role of key microbial species in [wine fermentations](https://www.semicrobiologia.org/wp-content/uploads/2023/07/5k.-Especial-Microbiologia-de-los-Alimentos.-Ecologia-e-interacciones-microbianas.-SEM_75_web.pdf) and their interaction within the community and with the environment.
+
+-
 -
 -
 
@@ -59,7 +64,7 @@ Applying a microbial ecology perspective, we aim to understand the individual ro
 <a href="https://scholar.google.com/citations?user=voPqq-wAAAAJ&hl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" height="40"/></a>
 <a href="https://www.researchgate.net/profile/Miguel-De-Celis" target="blank"><img align="center" src="https://help.researchgate.net/hc/article_attachments/17825143633297" height="60"/></a>
 <a href="https://orcid.org/0000-0002-3653-3031" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" height="40"/></a>
-<a href="http://minelab.bioucm.es/" target="blank"><img align="center" src="http://minelab.bioucm.es/plantillas/templates/mine/images/logo.png" height="50" /></a>
+<a href="http://minelab.bioucm.es/" target="blank"><img align="center" src="http://minelab.bioucm.es/plantillas/templates/mine/images/Logo_MineLab.png" height="50" /></a>
 
 
 </div>  
