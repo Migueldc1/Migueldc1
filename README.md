@@ -24,12 +24,12 @@ To explore the **microbial ecology** of these systems, I became proficient in **
 
 <div align="justify">
  
-The MICROWILD network aims to address how domestication has changed the plant microbiome of major crops for global agriculture. This knowledge is needed to optimize the interactions between plants and microbial communities occurring in the rhizosphere, which is crucial to increase global food production and its resilience to climate change. 
+The **MICROWILD** network aims to address how domestication has changed the plant microbiome of major crops for global agriculture. This knowledge is needed to optimize the interactions between plants and microbial communities occurring in the **rhizosphere**, which is crucial to increase global food production and its resilience to climate change. 
 
-<img align="left" height=200 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/Figure1_Geographical_origin_CWP.jpg">
+<img align="left" height=225 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/Figure1_Geographical_origin_CWP.jpg">
 
--  We identified a common soil core microbiome among wild progenitors, which created unique microhabitats within ecoregions that strongly influenced the soil community assembly, indicating specific co-evolutionary interactions (Fernández-Alonso _et al._ [2023](https://www.researchsquare.com/article/rs-3547051/v1)).
--  Despite the disting soil microbiomes and functions observed across wild progenitors, we identified consistent trends in rhizosphere influence, being generally higher on abundant taxa with strong implications in rhizosphere multifunctionality (de Celis _et al._ TBA).
+-  We identified a common soil **core microbiome** among wild progenitors, which created unique microhabitats within **ecoregions** that strongly influenced the soil community assembly, indicating specific co-evolutionary interactions (Fernández-Alonso _et al._ [2023](https://www.researchsquare.com/article/rs-3547051/v1)).
+-  Despite the disting soil microbiomes and functions observed across wild progenitors, we identified consistent trends in **rhizosphere influence**, being generally higher on **abundant** taxa with strong implications in **rhizosphere multifunctionality** (de Celis _et al._ TBA).
 
 
 </div> 
@@ -37,7 +37,10 @@ The MICROWILD network aims to address how domestication has changed the plant mi
  <h3 align="justify">Wine Yeast Communities</h3>
 <div align="justify">
  
-  We are a research group interested in understanding how microbial communities drives industrial microbial-based processes. Applying a microbial ecology perspective, we aim to understand the individual role of key microbial species in anthropogenic ecosystems (i.e. wine fermentations and wastewater treatment plants) and their interaction within the whole community and the environment
+Applying a microbial ecology perspective, we aim to understand the individual role of key microbial species in wine fermentations and their interaction within the community and with the environment:
+
+-
+-
 
   </div> 
  
