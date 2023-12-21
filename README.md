@@ -29,7 +29,7 @@ The **MICROWILD** network aims to address how domestication has changed the plan
 <img align="left" height=175 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/Figure1_Geographical_origin_CWP.jpg">
 
 -  We identified a common soil **core microbiome** among wild progenitors, which created unique microhabitats within **ecoregions** that strongly influenced the soil community assembly, indicating specific co-evolutionary interactions (Fernández-Alonso _et al._ [2023](https://www.researchsquare.com/article/rs-3547051/v1)).
--  Despite the disting soil microbiomes and functions observed across wild progenitors, we identified consistent trends in **rhizosphere influence**, being generally higher on **abundant** taxa with strong implications in **rhizosphere multifunctionality** (de Celis _et al._ TBA).
+-  Despite the distinct soil microbiomes and functions among wild progenitors, we identified consistent trends in **rhizosphere influence**, generally higher on **abundant** taxa with strong implications in **rhizosphere multifunctionality** (de Celis _et al._ TBA).
 
 
 </div> 
