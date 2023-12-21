@@ -52,8 +52,9 @@ Once sufficiently understood, it is an exciting idea to explore the use of a syn
  <h3 align="justify">Waste Water Treatment Plants</h3>
 
 
-  
-<h3 align="justify">Contact me </h3>
+<h2 align="justify">Upcoming Investigations</h2>
+
+<h2 align="justify">Contact me </h2>
 
 <div align="">
 
