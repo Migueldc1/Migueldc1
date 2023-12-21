@@ -26,7 +26,7 @@ To explore the **microbial ecology** of these systems, I became proficient in **
  
 The **MICROWILD** network aims to address how domestication has changed the plant microbiome of major crops for global agriculture. This knowledge is needed to optimize the interactions between plants and microbial communities occurring in the **rhizosphere**, which is crucial to increase global food production and its resilience to climate change. 
 
-<img align="left" height=175 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/Figure1_Geographical_origin_CWP.jpg">
+<img align="left" height=175 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/CWP_map.jpg">
 
 -  We identified a common soil **core microbiome** among wild progenitors, which created unique microhabitats within **ecoregions** that strongly influenced the soil community assembly, indicating specific co-evolutionary interactions (Fernández-Alonso _et al._ [2023](https://www.researchsquare.com/article/rs-3547051/v1)).
 -  Despite the distinct soil microbiomes and functions among wild progenitors, we identified common trends in **rhizosphere influence**, generally higher on **abundant** taxa with strong implications in **multifunctionality** (de Celis _et al._ TBA).
@@ -37,15 +37,15 @@ The **MICROWILD** network aims to address how domestication has changed the plan
  <h3 align="justify">Wine Yeast Communities</h3>
 <div align="justify">
 
-<img align="left" height=175 src=" https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsyr/22/1/10.1093_femsyr_foac034/3/foac034fig2.jpeg?Expires=1706180637&Signature=MfumKN3KRMR5lcdlMvTko-XnhIn324ulew8MF39ZvZGeOZ34jSmxioi3GkOXBepaY~U5UAhaz2D3vQ3~mgQHFaC-nJubeUh8J7X7TC7Lh9jWAffeYp3ZeTUXQ6Z4pMBYY3EgFL-C7L417sZXzCRWLhAnjA-McDTEeS6zectMtC8EgPNKkypSZgOqhqYqALm2XpmX7LFSxtZz44prko4maeqMpC58Ifb1Ae3MgH-~mzOg9NIuB-xxmrGaDlfkvFit2WR-Hh6TBlHALXr0Sad~fUO44oFHs7mGdoapBeFBLb63ADUSAKXlD0MJFj9387jraayNe~ks2Uh7410rJo3JYw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">
+<img align="right" height=350 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/Wine_diversity.png">
 
 
  
-Applying a **microbial ecology** perspective, we aim to understand the individual role of key microbial species in [wine fermentations](https://www.semicrobiologia.org/wp-content/uploads/2023/07/5k.-Especial-Microbiologia-de-los-Alimentos.-Ecologia-e-interacciones-microbianas.-SEM_75_web.pdf) and their interaction within the community and with the environment.
+Applying a **microbial ecology** perspective, we aim to understand the individual role of key microbial species in [wine fermentations](https://www.semicrobiologia.org/wp-content/uploads/2023/07/5k.-Especial-Microbiologia-de-los-Alimentos.-Ecologia-e-interacciones-microbianas.-SEM_75_web.pdf) and their interaction within the community and with the environment. Many research groups worldwide are exploring the great diversity of wine yeasts to exploit their metabolic potential to improve wine flavor or to prevent wine spoilage (de Celis *et al.* [2023](https://academic.oup.com/femsyr/article/22/1/foac034/6648099)). 
 
--
--
--
+Once sufficiently understood, the complexity of wine yeast microbiomes and its multi-species interactions could be captured in a single cell carrying a representative synthetic metagenome. Thus, it is an exciting idea to explore the use of a synthetic *Saccharomyces* chassis for the construction of a synthetic yeast that contains and regulates the expression of genes covering all the ecological functions found in multi-species spontaneous wine fermentations (Belda *et al.* [2021](https://www.nature.com/articles/s41467-021-21877-y)).
+
+
 
   </div> 
  
@@ -64,7 +64,7 @@ Applying a **microbial ecology** perspective, we aim to understand the individua
 <a href="https://scholar.google.com/citations?user=voPqq-wAAAAJ&hl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" height="40"/></a>
 <a href="https://www.researchgate.net/profile/Miguel-De-Celis" target="blank"><img align="center" src="https://help.researchgate.net/hc/article_attachments/17825143633297" height="60"/></a>
 <a href="https://orcid.org/0000-0002-3653-3031" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" height="40"/></a>
-<a href="http://minelab.bioucm.es/" target="blank"><img align="center" src="http://minelab.bioucm.es/plantillas/templates/mine/images/Logo_MineLab.png" height="50" /></a>
+<a href="http://minelab.bioucm.es/" target="blank"><img align="center" src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/Logo_MineLab.png" height="100" /></a>
 
 
 </div>  
