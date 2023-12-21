@@ -41,9 +41,9 @@ The **MICROWILD** network aims to address how domestication has changed the plan
 
 
  
-Applying a **microbial ecology** perspective, we aim to understand the individual role of key microbial species in [wine fermentations](https://www.semicrobiologia.org/wp-content/uploads/2023/07/5k.-Especial-Microbiologia-de-los-Alimentos.-Ecologia-e-interacciones-microbianas.-SEM_75_web.pdf) and their interaction within the community and with the environment. Many research groups worldwide are exploring the great diversity of wine yeasts to exploit their metabolic potential to improve wine flavor or to prevent wine spoilage (de Celis *et al.* [2023](https://academic.oup.com/femsyr/article/22/1/foac034/6648099)). 
+Applying a **microbial ecology** perspective, we aim to understand the individual role of key microbial species in [wine fermentations](https://www.semicrobiologia.org/wp-content/uploads/2023/07/5k.-Especial-Microbiologia-de-los-Alimentos.-Ecologia-e-interacciones-microbianas.-SEM_75_web.pdf) and their interaction within the community and with the environment. Many research groups worldwide are exploring the great diversity of wine yeasts to exploit their metabolic potential to improve wine flavor or to prevent wine spoilage (de Celis *et al.* [2021](https://academic.oup.com/lambio/article/68/6/580/6699300); [2023](https://academic.oup.com/femsyr/article/22/1/foac034/6648099)). 
 
-Once sufficiently understood, the complexity of wine yeast microbiomes and its multi-species interactions could be captured in a single cell carrying a representative synthetic metagenome. Thus, it is an exciting idea to explore the use of a synthetic *Saccharomyces* chassis for the construction of a synthetic yeast that contains and regulates the expression of genes covering all the ecological functions found in multi-species spontaneous wine fermentations (Belda *et al.* [2021](https://www.nature.com/articles/s41467-021-21877-y)).
+Once sufficiently understood, it is an exciting idea to explore the use of a synthetic *Saccharomyces* chassis for the construction of a synthetic yeast that contains and regulates the expression of genes covering all the ecological functions found in multi-species spontaneous wine fermentations (Belda *et al.* [2021](https://www.nature.com/articles/s41467-021-21877-y)).
 
 
 
