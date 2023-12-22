@@ -26,7 +26,7 @@ To explore the **microbial ecology** of these systems, I became proficient in **
  
 The **MICROWILD** network aims to address how domestication has changed the plant microbiome of major crops for global agriculture. This knowledge is needed to optimize the interactions between plants and microbial communities occurring in the **rhizosphere**, which is crucial to increase global food production and its resilience to climate change. 
 
-<img align="left" height=300 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/CWP_map.png">
+<img align="left" height=250 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/CWP_map.png">
 
 -  We identified a common soil **core microbiome** among wild progenitors, which created unique microhabitats within **ecoregions** that strongly influenced the soil community assembly, indicating specific co-evolutionary interactions (Fernández-Alonso _et al._ [2023](https://www.researchsquare.com/article/rs-3547051/v1)).
 -  Despite the distinct soil microbiomes and functions among wild progenitors, we identified common trends in **rhizosphere influence**, generally higher on **abundant** taxa with strong implications in **multifunctionality** (de Celis _et al._ TBA).
@@ -37,7 +37,7 @@ The **MICROWILD** network aims to address how domestication has changed the plan
  <h3 align="justify">Wine Yeast Communities</h3>
 <div align="justify">
 
-<img align="right" height=300 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/Wine_diversity.png">
+<img align="right" height=325 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/Wine_diversity.png">
 
 Applying a **microbial ecology** perspective, we aim to unravel the distinctive role of key microbial players in [wine fermentations](https://www.semicrobiologia.org/wp-content/uploads/2023/07/5k.-Especial-Microbiologia-de-los-Alimentos.-Ecologia-e-interacciones-microbianas.-SEM_75_web.pdf) and understand their interactions within the community and with the environment. Leveraging advanced **multi-omics** approaches, we explore the rich diversity of wine yeasts (de Celis *et al.* [2019](https://academic.oup.com/lambio/article/68/6/580/6699300), [2023](https://academic.oup.com/femsyr/article/22/1/foac034/6648099); Belda *et al.* [2021](https://linkinghub.elsevier.com/retrieve/pii/B9780081005965228758); Ruiz *et al.* [2021](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.15540)), shedding light on the importance of the yeast-yeast interactions in shaping wine flavor (Ruiz *et al.* [2020](https://www.sciencedirect.com/science/article/pii/S0963996920306888)). 
 
