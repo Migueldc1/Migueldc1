@@ -12,11 +12,11 @@
 
 <div align="justify">
 
-Microorganisms are vital for several biological processes that underpin our society. They enhance agriculture through `plant-soil interactions`, drive `food fermentations`, and play a key role in `wastewater treatment`. Studying the ecology of these systems allows us to enhance said processes, addressing environmental challenges, and contributing to a more sustainable society.
+Microorganisms are vital for several biological processes that underpin our society. They enhance agriculture through **plant-soil interactions**, drive **food fermentations**, and play a key role in `wastewater treatment`. Studying the ecology of these systems allows us to enhance said processes, addressing environmental challenges, and contributing to a more sustainable society.
 
 <img align="right" height=70 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png">
 
-To explore the **microbial ecology** of these systems, I became proficient in **bioinformatics**, including managing NGS sequences (`amplicon sequencing`, `(meta-)genomics`, `(meta-)transcriptomics)`. I also gained expertise in multivariate statistics and network analysis using `R language`, enabling me to initiate **national** and **international** collaborations.
+To explore the **microbial ecology** of these systems, I became proficient in **bioinformatics**, including managing NGS sequences (`amplicon sequencing`, `(meta-)genomics`, `(meta-)transcriptomics`). I also gained expertise in multivariate statistics and network analysis using `R language`, enabling me to initiate **national** and **international** collaborations.
 
 </div> 
  
@@ -26,7 +26,7 @@ To explore the **microbial ecology** of these systems, I became proficient in **
  
 The **MICROWILD** network aims to address how domestication has changed the plant microbiome of major crops for global agriculture. This knowledge is needed to optimize the interactions between plants and microbial communities occurring in the **rhizosphere**, which is crucial to increase global food production and its resilience to climate change. 
 
-<img align="left" height=175 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/CWP_map.jpg">
+<img align="left" height=300 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/CWP_map.png">
 
 -  We identified a common soil **core microbiome** among wild progenitors, which created unique microhabitats within **ecoregions** that strongly influenced the soil community assembly, indicating specific co-evolutionary interactions (Fernández-Alonso _et al._ [2023](https://www.researchsquare.com/article/rs-3547051/v1)).
 -  Despite the distinct soil microbiomes and functions among wild progenitors, we identified common trends in **rhizosphere influence**, generally higher on **abundant** taxa with strong implications in **multifunctionality** (de Celis _et al._ TBA).
@@ -37,22 +37,17 @@ The **MICROWILD** network aims to address how domestication has changed the plan
  <h3 align="justify">Wine Yeast Communities</h3>
 <div align="justify">
 
-<img align="right" height=350 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/Wine_diversity.png">
+<img align="right" height=300 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/Wine_diversity.png">
 
+Applying a **microbial ecology** perspective, we aim to unravel the distinctive role of key microbial players in [wine fermentations](https://www.semicrobiologia.org/wp-content/uploads/2023/07/5k.-Especial-Microbiologia-de-los-Alimentos.-Ecologia-e-interacciones-microbianas.-SEM_75_web.pdf) and understand their interactions within the community and with the environment. Leveraging advanced **multi-omics** approaches, we explore the rich diversity of wine yeasts (de Celis *et al.* [2019](https://academic.oup.com/lambio/article/68/6/580/6699300), [2023](https://academic.oup.com/femsyr/article/22/1/foac034/6648099); Belda *et al.* [2021](https://linkinghub.elsevier.com/retrieve/pii/B9780081005965228758); Ruiz *et al.* [2021](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.15540)), shedding light on the importance of the yeast-yeast interactions in shaping wine flavor (Ruiz *et al.* [2020](https://www.sciencedirect.com/science/article/pii/S0963996920306888)). 
 
- 
-Applying a **microbial ecology** perspective, we aim to understand the individual role of key microbial species in [wine fermentations](https://www.semicrobiologia.org/wp-content/uploads/2023/07/5k.-Especial-Microbiologia-de-los-Alimentos.-Ecologia-e-interacciones-microbianas.-SEM_75_web.pdf) and their interaction within the community and with the environment. Many research groups worldwide are exploring the great diversity of wine yeasts to exploit their metabolic potential to improve wine flavor or to prevent wine spoilage (de Celis *et al.* [2021](https://academic.oup.com/lambio/article/68/6/580/6699300); [2023](https://academic.oup.com/femsyr/article/22/1/foac034/6648099)). 
+Moving forward, we examine the contribution of individual wine yeast strains the overall wine composition, a crucial step in managing microbial processes with biotechnological applications (Ruiz *et al.* [2023](https://www.embopress.org/doi/full/10.15252/msb.202311613)). Deciphering the molecular determinants governing individual contribution of yeasts to wine composition not only enhances our understanding but also guides targeted improvements of wine quality (de Celis *et al.* [2023](https://www.biorxiv.org/content/10.1101/2023.12.02.569693v1)).
 
-Once sufficiently understood, it is an exciting idea to explore the use of a synthetic *Saccharomyces* chassis for the construction of a synthetic yeast that contains and regulates the expression of genes covering all the ecological functions found in multi-species spontaneous wine fermentations (Belda *et al.* [2021](https://www.nature.com/articles/s41467-021-21877-y)).
-
-
+Once the complexity of wine communities, the relevance of yeast-yeast interactions and their individual contributions to wine composition are sufficiently understood, it is an exciting idea to explore the use of a synthetic *Saccharomyces* chassis for the construction of a synthetic yeast with genes covering the ecological functions observed in multi-species spontaneous wine fermentations (Belda *et al.* [2021](https://www.nature.com/articles/s41467-021-21877-y)).
 
   </div> 
  
  <h3 align="justify">Waste Water Treatment Plants</h3>
-
-
-<h2 align="justify">Upcoming Investigations</h2>
 
 <h2 align="justify">Contact me </h2>
 
