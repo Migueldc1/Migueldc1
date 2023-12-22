@@ -23,8 +23,8 @@ The **MICROWILD** network aims to address how domestication has changed the plan
 
 <img align="left" height=250 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/CWP_map.png">
 
--  We identified a common soil **core microbiome** among wild progenitors, which created unique microhabitats within **ecoregions** that strongly influenced the soil community assembly, indicating specific co-evolutionary interactions (Fernández-Alonso _et al._ [2023](https://www.researchsquare.com/article/rs-3547051/v1)).
--  Despite the distinct soil microbiomes and functions among wild progenitors, we identified common trends in **rhizosphere influence**, generally higher on **abundant** taxa with strong implications in **multifunctionality** (de Celis _et al._ TBA).
+-  We identified a common soil **core microbiome** among wild progenitors, which created unique microhabitats within **ecoregions** that strongly influenced the soil community assembly, indicating specific co-evolutionary interactions (Fernández-Alonso *et al.* [2023](https://www.researchsquare.com/article/rs-3547051/v1)).
+-  Despite the distinct soil microbiomes and functions among wild progenitors, we identified common trends in **rhizosphere influence**, generally higher on **abundant** taxa with strong implications in **multifunctionality** (de Celis *et al.* 2024).
 </div> 
 
 <h3 align="justify">Wine Yeast Communities</h3>
@@ -32,7 +32,7 @@ The **MICROWILD** network aims to address how domestication has changed the plan
  
 <img align="right" height=300 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/Wine_diversity.png">
  
-Applying a **microbial ecology** perspective, we aim to unravel the distinctive role of key microbial players in [wine fermentations](https://www.semicrobiologia.org/wp-content/uploads/2023/07/5k.-Especial-Microbiologia-de-los-Alimentos.-Ecologia-e-interacciones-microbianas.-SEM_75_web.pdf) and understand their interactions within the community and with the environment. Leveraging advanced **multi-omics** approaches, we explore the rich diversity of wine yeasts (de Celis *et al.* [2019](https://academic.oup.com/lambio/article/68/6/580/6699300), [2023](https://academic.oup.com/femsyr/article/22/1/foac034/6648099); Belda *et al.* [2021](https://linkinghub.elsevier.com/retrieve/pii/B9780081005965228758); Ruiz *et al.* [2021](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.15540)), shedding light on the importance of the yeast-yeast interactions in shaping wine flavor (Ruiz *et al.* [2020](https://www.sciencedirect.com/science/article/pii/S0963996920306888)). 
+Applying a **microbial ecology** perspective, we aim to unravel the distinctive role of key microbial players in [wine fermentations](https://www.semicrobiologia.org/wp-content/uploads/2023/07/5k.-Especial-Microbiologia-de-los-Alimentos.-Ecologia-e-interacciones-microbianas.-SEM_75_web.pdf) and understand their interactions within the community and with the environment. Leveraging advanced **multi-omics** approaches, we explore the rich diversity of wine yeasts (de Celis *et al.* [2019](https://academic.oup.com/lambio/article/68/6/580/6699300), [2022](https://academic.oup.com/femsyr/article/22/1/foac034/6648099); Belda *et al.* [2021](https://linkinghub.elsevier.com/retrieve/pii/B9780081005965228758); Ruiz *et al.* [2021](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.15540)), shedding light on the importance of the yeast-yeast interactions in shaping wine flavor (Ruiz *et al.* [2020](https://www.sciencedirect.com/science/article/pii/S0963996920306888)). 
 
 Moving forward, we examine the contribution of individual wine yeast strains the overall wine composition, a crucial step in managing microbial processes with biotechnological applications (Ruiz *et al.* [2023](https://www.embopress.org/doi/full/10.15252/msb.202311613)). Deciphering the molecular determinants governing individual contribution of yeasts to wine composition not only enhances our understanding but also guides targeted improvements of wine quality (de Celis *et al.* [2023](https://www.biorxiv.org/content/10.1101/2023.12.02.569693v1)).
 
@@ -41,24 +41,13 @@ Once the complexity of wine communities, the relevance of yeast-yeast interactio
   
 <h3 align="justify">Waste Water Treatment Plants</h3>
 <div align="justify">
- 
-The operation of Wastewater Treatment Plants (WWTP) depends on the activity of the microbial community for the degradation of organic matter and nutrients present in the wastewater.
-eepens the knowledge of microbial
-dynamics in MBR bioreactors, studying the patterns of assembly and succession of
-the bacterial communities in the activated sludge and relating the environmental
-and operational parameters with their structure. This type of studies allows the
-development of methodologies for monitoring the stability of these communities, on
-which the correct operation of WWTPs depends. In addition, it also presents tools
-with great potential to alleviate the biofouling of MBR membranes, such as the use
-of QQ enzymes that do not negatively affect the performance of the reactor
-microbiome. However, other tools studied, such as metallic NPs, have very limited
-effectiveness in reducing biofilm formation, which, added to their non-specific
-mechanism of action on the transcriptome of biofilm-forming bacteria, limits their
-applicability in these systems and may have unpredictable consequences on the
-microbial communities in the bioreactors.
+
+<img align="left" height=300 src="https://github.com/Migueldc1/Migueldc1/blob/main/Figures/WWTP_network.png">
+
+The operation of Wastewater Treatment Plants (WWTP) depends on the activity of the microbial community for the degradation of organic matter and nutrients present in the wastewater. Our work deepens the knowledge of microbial dynamics within bioreactors, studying the patterns of microbial assembly and succession (de Celis *et al.* [2020](https://www.nature.com/articles/s41598-020-61092-1), [2022](https://www.nature.com/articles/s41522-022-00291-2)), and advancing the development of methodologies for monitoring the stability of the communities and the correct WWTP operation. We further identify microbial associations and their ecological implications occurring during granule development in specific bioreactor settings, especially those involving inter-kingdom interactions (de Celis *et al*, 2024).
+
+Combining classical microbiology and NGS techniques we identify the most promising tools to reduce biofouling issues in WWTPs, such as the use of *quorum quenching* enzymes that inhibit biofilm formation (de Celis *et al.* [2021](https://www.sciencedirect.com/science/article/pii/S0048969721044740)) or metallic nanoparticles with limited effectiveness (de Celis *et al.* [2022](https://www.sciencedirect.com/science/article/pii/S0048969722010075)).
 </div> 
-
-
 
 <h2 align="justify">Contact me </h2>
 <div align="">
